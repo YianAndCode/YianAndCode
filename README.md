@@ -1,4 +1,6 @@
-### Hi there 👋
+### Y!an
+
+ - 🖊 Blog: [https://yian.me/blog](https://yian.me/blog)
 
 <!--
 **YianAndCode/YianAndCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
