@@ -1,4 +1,4 @@
-![Page views](https://github.yian.me/pv/?repo=YianAndCode/YianAndCode)
+[![YianAndCode](https://github.yian.me/pv/?repo=YianAndCode/YianAndCode)](https://github.com/YianAndCode/YianAndCode)
 
 ### Y!an
 
