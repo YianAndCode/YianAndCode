@@ -1,3 +1,5 @@
+![Page views](https://github.yian.me/pv/?repo=YianAndCode/YianAndCode)
+
 ### Y!an
 
  - 🖊 Blog: [https://yian.me/blog](https://yian.me/blog)
