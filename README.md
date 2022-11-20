@@ -4,6 +4,8 @@
 
  - 🖊 Blog: [https://yian.me/blog](https://yian.me/blog)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/YianAndCode/YianAndCode/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YianAndCode/YianAndCode/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!--
 **YianAndCode/YianAndCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
